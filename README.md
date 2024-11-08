@@ -5,7 +5,7 @@ Hi, I'm Aspyn😉
 
 <!-- 사용 가능 툴? -->
 ## Skills
-<img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
+<img alt="Unity" src ="https://img.shields.io/badge/unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
 
 <!-- 관심사 -->
 ## INTERESTS
