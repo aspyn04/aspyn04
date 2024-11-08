@@ -2,7 +2,6 @@
 ## INTRO
 Hi, I'm Aspyn😉
 <br>
-<br>
 I'm in my 2nd year of university.
 
 <!-- 연락 수단 -->
