@@ -2,7 +2,7 @@
 ## INTRO
 Hi, I'm Aspyn😉
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aspyn_j_04)](https://solved.ac/aspyn_j_04)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aspyn_04_j)](https://solved.ac/aspyn_04_j)
 
 
 <!-- 연락 수단 -->
