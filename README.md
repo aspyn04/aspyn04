@@ -2,7 +2,7 @@
 ## INTRO
 Hi, I'm Aspyn😉
 <br>
-I'm in my 2nd year of university.
+![aspyn04's GitHub stats](https://github-readme-stats.vercel.app/api?username=aspyn04&show_icons=true&theme=dark)
 
 <!-- 연락 수단 -->
 ## CONTACT
