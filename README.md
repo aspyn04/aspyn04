@@ -7,11 +7,9 @@ Hi, I'm Aspyn😉
 <!-- 연락처 -->
 ## Contact
 [![Instagram](https://img.shields.io/badge/instagram-444444.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aspyn._.j) [![Discord](https://img.shields.io/badge/discord-444444.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/users/826455342350073887)
-
 <br>
 
 <!-- 관심사 -->
-
 <!-- 디자인 툴 --> 
 ## Design
 [![Maya](https://img.shields.io/badge/MAYA-444444.svg?&style=for-the-badge&logo=autodeskmaya&logoColor=white)](https://www.autodesk.com/kr/products/maya/overview?cjdata=MXxOfDB8WXww&term=1-YEAR&AID=13084954&PID=8206971&SID=jkp_Cj0KCQiAire5BhCNARIsAM53K1i_bXqpodsAy80L6Rmj3_mSL3-p3ta_9YlVXM4LMULDPqfWV1h2NJ4aAkNSEALw_wcB&cjevent=01aa58f09dec11ef837f00c30a18b8fc&mktvar002=afc_kr_deeplink&affname=8206971_13084954&tab=subscription&plc=MAYA)
@@ -22,7 +20,6 @@ Hi, I'm Aspyn😉
 ## Game Engine
 [![Unity](https://img.shields.io/badge/Unity-444444.svg?&style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/) [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-444444.svg?&style=for-the-badge&logo=unrealengine&logoColor=white)](https://unrealengine.com/)
 <br>
-
 
 <!-- 현재 음악 -->
 ## What I'm Listening to Now 🎧
