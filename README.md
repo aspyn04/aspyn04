@@ -6,21 +6,21 @@ Hi, I'm Aspyn😉
 
 <!-- 연락처 -->
 ## Contact
-[![Gmail](https://img.shields.io/badge/gmail-52A8D8.svg?&style=for-the-badge&logo=gmail&logoColor=FAF8FF)](https://mail.google.com/mail/?view=cm&fs=1&to=aspyn.j04@gmail.com) [![Discord](https://img.shields.io/badge/discord-444444.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/users/826455342350073887) [![Instagram](https://img.shields.io/badge/instagram-444444.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aspyn._.j)
+[![Gmail](https://img.shields.io/badge/gmail-4A90E2.svg?&style=for-the-badge&logo=gmail&logoColor=FFFFFF)](https://mail.google.com/mail/?view=cm&fs=1&to=aspyn.j04@gmail.com) [![Discord](https://img.shields.io/badge/discord-4A90E2.svg?&style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://www.discord.com/users/826455342350073887) [![Instagram](https://img.shields.io/badge/instagram-4A90E2.svg?&style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://instagram.com/aspyn._.j)
 <br>
 <br>
 
 <!-- 관심사 -->
 <!-- 디자인 툴 --> 
 ## Design
-[![Maya](https://img.shields.io/badge/MAYA-5EB3F3.svg?&style=for-the-badge&logo=autodeskmaya&logoColor=FDFDFD)](https://www.autodesk.com/kr/products/maya/overview?cjdata=MXxOfDB8WXww&term=1-YEAR&AID=13084954&PID=8206971&SID=jkp_Cj0KCQiAire5BhCNARIsAM53K1i_bXqpodsAy80L6Rmj3_mSL3-p3ta_9YlVXM4LMULDPqfWV1h2NJ4aAkNSEALw_wcB&cjevent=01aa58f09dec11ef837f00c30a18b8fc&mktvar002=afc_kr_deeplink&affname=8206971_13084954&tab=subscription&plc=MAYA)
-[![Figma](https://img.shields.io/badge/figma-444444.svg?&style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Maya](https://img.shields.io/badge/MAYA-4A90E2.svg?&style=for-the-badge&logo=autodeskmaya&logoColor=FFFFFF)](https://www.autodesk.com/kr/products/maya/overview?cjdata=MXxOfDB8WXww&term=1-YEAR&AID=13084954&PID=8206971&SID=jkp_Cj0KCQiAire5BhCNARIsAM53K1i_bXqpodsAy80L6Rmj3_mSL3-p3ta_9YlVXM4LMULDPqfWV1h2NJ4aAkNSEALw_wcB&cjevent=01aa58f09dec11ef837f00c30a18b8fc&mktvar002=afc_kr_deeplink&affname=8206971_13084954&tab=subscription&plc=MAYA)
+[![Figma](https://img.shields.io/badge/figma-4A90E2.svg?&style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://www.figma.com/)
 <br>
 <br>
 
 <!-- 게임 엔진 -->
 ## Game Engine
-[![Unity](https://img.shields.io/badge/Unity-444444.svg?&style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/) [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-444444.svg?&style=for-the-badge&logo=unrealengine&logoColor=white)](https://unrealengine.com/)
+[![Unity](https://img.shields.io/badge/Unity-4A90E2.svg?&style=for-the-badge&logo=unity&logoColor=FFFFFF)](https://unity.com/) [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-4A90E2.svg?&style=for-the-badge&logo=unrealengine&logoColor=FFFFFF)](https://unrealengine.com/)
 <br>
 <br>
 
