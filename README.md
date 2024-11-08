@@ -7,8 +7,7 @@ Hi, I'm Aspyn😉
 
 <!-- 연락 수단 -->
 ## CONTACT
-<img alt="Gmail" src ="https://img.shields.io/badge/logo=Gmail&logoColor=#EA4335"/>
-
+<img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 <!-- 관심사 -->
 ## INTERESTS
 - Game Development (Unity, Unreal)
