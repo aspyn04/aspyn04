@@ -6,7 +6,7 @@ Hi, I'm Aspyn😉
 
 <!-- 연락처 -->
 ## Contact
-[![Gmail](https://img.shields.io/badge/gmail-444444.svg?&style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKjDbNjJqXgrWqPMjDCgrmvQBChZnvJTcHJWcNLVwvqvZqpRJvvGfcKwlTPKGLzsdmHbtTn) [![Discord](https://img.shields.io/badge/discord-444444.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/users/826455342350073887) [![Instagram](https://img.shields.io/badge/instagram-444444.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aspyn._.j)
+[![Gmail](https://img.shields.io/badge/gmail-444444.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:aspyn.j04@gmail.com) [![Discord](https://img.shields.io/badge/discord-444444.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/users/826455342350073887) [![Instagram](https://img.shields.io/badge/instagram-444444.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aspyn._.j)
 <br>
 
 <!-- 관심사 -->
