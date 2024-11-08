@@ -1,18 +1,12 @@
 <!-- 소개 -->
-## INTRO
+## Intro
 Hi, I'm Aspyn😉
 <br>
 
-<!-- 사용 가능 툴? -->
-## Skills
+<!-- 관심사 -->
+## Interests
 [![Unity](https://img.shields.io/badge/Unity-black.svg?&style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-black.svg?&style=for-the-badge&logo=unrealengine&logoColor=white)](https://unrealengine.com/)
-<br>
-
-<!-- 관심사 -->
-## INTERESTS
-- Game Development (Unity, Unreal)
-- 3D Modeling
 <br>
 
 <!-- 현재 음악 -->
