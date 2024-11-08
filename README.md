@@ -6,7 +6,7 @@ Hi, I'm Aspyn😉
 
 <!-- 연락처 -->
 ## Contact
-[![Instagram](https://img.shields.io/badge/instagram-333333.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aspyn._.j) [![Discord](https://img.shields.io/badge/discord-333333.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/users/826455342350073887) [![Naver](https://img.shields.io/badge/naver-333333.svg?&style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/aspyn__04) 
+[![Instagram](https://img.shields.io/badge/instagram-white.svg?&style=for-the-badge&logo=instagram&logoColor=333333)](https://instagram.com/aspyn._.j) [![Discord](https://img.shields.io/badge/discord-333333.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/users/826455342350073887) [![Naver](https://img.shields.io/badge/naver-333333.svg?&style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/aspyn__04) 
 
 
 <br>
