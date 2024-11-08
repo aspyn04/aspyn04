@@ -29,11 +29,15 @@ Hi, I'm Aspyn😉
 <!-- 백준 / 실버까지 더 키우고 보여지게 하기 -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aspyn_04_j)](https://solved.ac/aspyn_04_j) -->
 
-<!--
+
 <!-- 연락 수단 -->
+
+<!--
+
 ## CONTACT
+
 [![Google Badge](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aspyn.j04@gmail.com)
 <img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
-
 [Google Badge - aspyn.j04@gmail.com](mailto:aspyn.j04@gmail.com)
+
  -->
