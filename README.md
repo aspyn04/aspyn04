@@ -2,7 +2,8 @@
 ## INTRO
 Hi, I'm Aspyn😉
 <br>
-![aspyn04's GitHub stats](https://github-readme-stats.vercel.app/api?username=aspyn04&show_icons=true&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aspyn_j_04)](https://solved.ac/aspyn_j_04)
+
 
 <!-- 연락 수단 -->
 ## CONTACT
