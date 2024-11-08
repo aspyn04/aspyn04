@@ -6,7 +6,7 @@ Hi, I'm Aspyn😉
 
 <!-- 연락처 -->
 ## Contact
-[![Instagram](https://img.shields.io/badge/instagram-white.svg?&style=for-the-badge&logo=instagram&logoColor=333333)](https://instagram.com/aspyn._.j) 
+[![Instagram](https://img.shields.io/badge/instagram-333333.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aspyn._.j) 
 <br>
 <br>
 
