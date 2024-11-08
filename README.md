@@ -7,7 +7,7 @@ Hi, I'm Aspyn😉
 
 <!-- 연락 수단 -->
 ## CONTACT
-
+<img alt="Python" src ="https://img.shields.io/badge/logo=Gmail&logoColor=#EA4335"/>
 
 <!-- 관심사 -->
 ## INTERESTS
