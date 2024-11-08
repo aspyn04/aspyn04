@@ -15,7 +15,7 @@ Hi, I'm Aspyn😉
 <!-- 디자인 툴 --> 
 ## Design
 [![Maya](https://img.shields.io/badge/MAYA-444444.svg?&style=for-the-badge&logo=autodeskmaya&logoColor=white)](https://www.autodesk.com/kr/products/maya/overview?cjdata=MXxOfDB8WXww&term=1-YEAR&AID=13084954&PID=8206971&SID=jkp_Cj0KCQiAire5BhCNARIsAM53K1i_bXqpodsAy80L6Rmj3_mSL3-p3ta_9YlVXM4LMULDPqfWV1h2NJ4aAkNSEALw_wcB&cjevent=01aa58f09dec11ef837f00c30a18b8fc&mktvar002=afc_kr_deeplink&affname=8206971_13084954&tab=subscription&plc=MAYA)
-
+[![Figma](https://img.shields.io/badge/figma-444444.svg?&style=for-the-badge&logo=figma&logoColor=white)(https://www.figma.com/)
 
 <!-- 게임 엔진 -->
 ## Game Engine
