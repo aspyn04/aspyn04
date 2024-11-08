@@ -2,7 +2,8 @@
 
 <!--
 **aspyn04/aspyn04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+---------------------------------------
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=w4t3eqsuqrcbvab78aaoi6rdd&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=w4t3eqsuqrcbvab78aaoi6rdd&redirect=true)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
