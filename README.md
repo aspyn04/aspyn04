@@ -5,8 +5,8 @@ Hi, I'm Aspyn😉
 
 <!-- 사용 가능 툴? -->
 ## Skills
-[![Unity](https://img.shields.io/badge/unity-black.svg?&style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-[![Unreal](https://img.shields.io/badge/unrealengine-black.svg?&style=for-the-badge&logo=Unreal&nbspEngine&logoColor=white)](https://unrealengine.com/)
+[![Unity](https://img.shields.io/badge/Unity-black.svg?&style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-black.svg?&style=for-the-badge&logo=unrealengine&logoColor=white)](https://unrealengine.com/)
 
 <!-- 관심사 -->
 ## INTERESTS
