@@ -6,7 +6,7 @@ Hi, I'm Aspyn😉
 
 <!-- 연락처 -->
 ## Contact
-[![Gmail](https://img.shields.io/badge/gmail-333333.svg?&style=for-the-badge&logo=gmail&logoColor=D9E6F2)](https://mail.google.com/mail/?view=cm&fs=1&to=aspyn.j04@gmail.com){:target="_blank"} [![Discord](https://img.shields.io/badge/discord-333333.svg?&style=for-the-badge&logo=discord&logoColor=D9E6F2)](https://www.discord.com/users/826455342350073887){:target="_blank"} [![Instagram](https://img.shields.io/badge/instagram-333333.svg?&style=for-the-badge&logo=instagram&logoColor=D9E6F2)](https://instagram.com/aspyn._.j){:target="_blank"}
+[![Gmail](https://img.shields.io/badge/gmail-333333.svg?&style=for-the-badge&logo=gmail&logoColor=D9E6F2)](https://mail.google.com/mail/?view=cm&fs=1&to=aspyn.j04@gmail.com) [![Discord](https://img.shields.io/badge/discord-333333.svg?&style=for-the-badge&logo=discord&logoColor=D9E6F2)](https://www.discord.com/users/826455342350073887) [![Instagram](https://img.shields.io/badge/instagram-333333.svg?&style=for-the-badge&logo=instagram&logoColor=D9E6F2)](https://instagram.com/aspyn._.j)
 <br>
 <br>
 
@@ -20,7 +20,7 @@ Hi, I'm Aspyn😉
 
 <!-- 게임 엔진 -->
 ## Game Engine
-[![Unity](https://img.shields.io/badge/Unity-333333.svg?&style=for-the-badge&logo=unity&logoColor=D9E6F2)](https://unity.com/){:target="_blank"} [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-333333.svg?&style=for-the-badge&logo=unrealengine&logoColor=D9E6F2)](https://unrealengine.com/){:target="_blank"}
+[![Unity](https://img.shields.io/badge/Unity-333333.svg?&style=for-the-badge&logo=unity&logoColor=D9E6F2)](https://unity.com/) [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-333333.svg?&style=for-the-badge&logo=unrealengine&logoColor=D9E6F2)](https://unrealengine.com/)
 <br>
 <br>
 
