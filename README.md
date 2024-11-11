@@ -1,7 +1,7 @@
 <!-- 소개 -->
 <h2>Intro</h2>
 <p>Hi, I'm Aspyn😉</p>
-<br><br>
+<br>
 
 <!-- 연락처 -->
 <h2>Contact</h2>
