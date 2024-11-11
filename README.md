@@ -2,7 +2,6 @@
 <h2>Intro</h2>
 <p>Hi, I'm Aspyn😉</p>
 <br>
-
 <!-- 연락처 -->
 <h2>Contact</h2>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aspyn.j04@gmail.com" target="_blank">
