@@ -1,18 +1,27 @@
-<style>
-  a {
-    margin: 0; /* 링크 요소의 여백 제거 */
-    padding: 0; /* 링크 요소의 패딩 제거 */
-  }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profile</title>
+  <style>
+    a {
+      margin: 0;
+      padding: 0;
+    }
 
-  img {
-    display: block; /* 이미지 사이 간격 제거 */
-  }
-</style>
+    img {
+      display: block;
+    }
+  </style>
+</head>
+<body>
 
 <!-- 소개 -->
 <h2>Intro</h2>
 <p>Hi, I'm Aspyn😉</p>
-<br>
+<br><br>
+
 <!-- 연락처 -->
 <h2>Contact</h2>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aspyn.j04@gmail.com" target="_blank">
@@ -65,3 +74,6 @@
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=aspyn_04_j" alt="Solved.ac Profile">
 </a>
 -->
+
+</body>
+</html>
