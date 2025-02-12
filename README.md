@@ -17,8 +17,14 @@ Hi, I'm Aspyn😉
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=w4t3eqsuqrcbvab78aaoi6rdd&cover_image=true&theme=natemoo-re&show_offline=true&background_color=1e1e1e&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=w4t3eqsuqrcbvab78aaoi6rdd&redirect=true)
 <br>
 
-<!-- 참여 프로젝트 -->
-## Project
+<!-- 개인 프로젝트 -->
+## Personal Project 
+<br>
+I don't know :)
+<br>
+
+<!-- 팀 프로젝트 -->
+## Team Project 
 <br>
 
 &nbsp;&nbsp;**🎮 Game Development Project**
