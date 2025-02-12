@@ -33,7 +33,7 @@ Hi, I'm Aspyn😉
 ## Project
 <br>
 
-**Game Project**
+**Game Development Project**
 <br>
 - [Mnemophage](https://github.com/Kimighwan/MnemoPhage)
 <br>
