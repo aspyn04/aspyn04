@@ -28,10 +28,10 @@ Hi, I'm Aspyn😉
 ## Team Project 
 <br>
 
-
-&nbsp;&nbsp;**🎮 Game Development Project**
 <br>
-- [Mnemophage](https://github.com/Kimighwan/MnemoPhage)
+- [Mnemophage](https://github.com/Kimighwan/MnemoPhage) | 
+
+**Game Development Project 🎮**
 <br>
 <br>
 <br>
