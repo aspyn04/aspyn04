@@ -21,12 +21,13 @@ Hi, I'm Aspyn😉
 ## Personal Project 
 I don't know :)
 <br>
+<br>
+<br>
 
 <!-- 팀 프로젝트 -->
 ## Team Project 
 <br>
-<br>
-<br>
+
 
 &nbsp;&nbsp;**🎮 Game Development Project**
 <br>
