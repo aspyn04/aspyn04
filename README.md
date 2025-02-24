@@ -19,14 +19,14 @@ Hi, I'm Aspyn😉
 
 <!-- 개인 프로젝트 -->
 ## Personal Project 
-- [**Ruku's Adventure**](https://github.com/aspyn04/Ruku-s-Adventure) | **Final Project for the Physical Computing Course 💻**
+- [**Ruku's Adventure**](https://github.com/aspyn04/Ruku-s-Adventure) | **Final Project for the Physical Computing Course 💻** | 2024
 <br>
 <br>
 <br>
 
 <!-- 팀 프로젝트 -->
 ## Team Project 
-- [**Mnemophage**](https://github.com/Kimighwan/MnemoPhage) | **Game Development Project 🎮**
+- [**Mnemophage**](https://github.com/Kimighwan/MnemoPhage) | **Game Development Project 🎮** | 2025
 <br>
 <br>
 <br>
