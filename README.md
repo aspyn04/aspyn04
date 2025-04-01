@@ -19,7 +19,7 @@ Hi, I'm Aspyn😉
 
 <!-- 개인 프로젝트 -->
 ## Personal Project 
-- [**Ruku's Adventure**](https://github.com/aspyn04/Ruku-s-Adventure) | **Final Project for the Physical Computing Course 💻** **(2024)**
+- [**Ruku's Adventure**](https://github.com/aspyn04/Ruku-s-Adventure) | **Final Project for the Physical Computing Course 🎮** **(2024)**
 <br>
 <br>
 <br>
