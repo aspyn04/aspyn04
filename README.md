@@ -27,6 +27,7 @@ Hi, I'm Aspyn😉
 <!-- 팀 프로젝트 -->
 ## Team Project 
 - [**Silent Mines**]() | **Game Development Project 🎮** **(2025)**
+- [**Game Contents Desgin**]() | **Project for the Game Contents Desgin Course 🎮** **(2025)**
 <br>
 <br>
 
