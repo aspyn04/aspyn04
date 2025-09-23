@@ -26,8 +26,10 @@ Hi, I'm Aspyn😉
 
 <!-- 팀 프로젝트 -->
 ## Team Project 
-- [**Silent Mines**]() | **Game Development Project 🎮** **(2025)**
+- [**Silent Mines**](https://github.com/Silent-Mines/SilentMines) | **Game Development Project 🎮** **(2025)**
 - [**Game Contents Desgin**](https://github.com/aspyn04/GameContentsDesgin) | **Project for the Game Contents Desgin Course 🎮** **(2025)**
+- [**TaraT**](https://github.com/aspyn04/TaraT_Project) | **Game Development Project 🎮** **(2025)**
+
 <br>
 <br>
 
